@@ -3,7 +3,7 @@
 > **Course:** Cloud Computing (BS CS) — CS-412  
 > **Institution:** Riphah International University  
 > **Deployment:** AWS Free Tier · Docker · Kubernetes (Minikube on EC2)  
-> **Live URL:** `http://34.203.200.107:30080`
+> **Live URL:** `http://3.95.252.174:30080`
 
 ---
 
@@ -19,8 +19,8 @@ The application displays real-time dynamic information including a live timestam
 
 | Endpoint | URL | Description |
 |----------|-----|-------------|
-| Main App | `http://34.203.200.107:30080` | Displays timestamp, container ID, visitor count |
-| Health Check | `http://34.203.200.107:30080/health` | Returns JSON health status and uptime |
+| Main App | `http://3.95.252.174:30080` | Displays timestamp, container ID, visitor count |
+| Health Check | `http://3.95.252.174:30080/health` | Returns JSON health status and uptime |
 
 ---
 
@@ -52,7 +52,7 @@ The application displays real-time dynamic information including a live timestam
                                        │
                                        ▼
                             Public Internet
-                       http://34.203.200.107:30080
+                       http://3.95.252.174:30080
 ```
 
 ---
@@ -194,7 +194,7 @@ To run this project yourself you need:
 
 | # | Deliverable | Status |
 |---|-------------|--------|
-| 1 | Public Application URL |  `http://34.203.200.107:30080` |
+| 1 | Public Application URL |  `http://3.95.252.174:30080` |
 | 2 | Source Code Repository |  This repository |
 | 3 | Project Report (PDF) |  Submitted via Moellim |
 | 4 | Demonstration Video |  Linked below |
@@ -207,6 +207,7 @@ To run this project yourself you need:
 ## 👨‍💻 Author
 
 **Abubakar Ahmad**  
+**54603**
 BS Computer Science  
 Riphah International University  
 Course: Cloud Computing (CS-412)
